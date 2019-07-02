@@ -1,0 +1,10 @@
+{ "name": "@joaopiopedreira/super-2888348349",
+  "version": "1.0.0",
+  "description": "an example repository to teach people how to publish to npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "joaopiopedreira@gmail.com",
+  "license": "ISC"
+}
